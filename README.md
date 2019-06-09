@@ -1,1 +1,1 @@
-DMA_CASE_2
+Simple clusters analysis algorithm
